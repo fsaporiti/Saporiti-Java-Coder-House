@@ -1,0 +1,13 @@
+Endpoints
+
+http://localhost:8080/cliente/agregar	POST
+http://localhost:8080/cliente/1 	GET
+http://localhost:8080/cliente/1 	DELETE
+
+http://localhost:8080/productos/agregar	POST
+http://localhost:8080/productos/1	GET
+http://localhost:8080/productos/1	DELETE
+
+http://localhost:8080/venta/crear/1	POST
+http://localhost:8080/venta/1		GET
+http://localhost:8080/venta/1		DELETE
